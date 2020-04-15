@@ -20,7 +20,7 @@ SMART Attributes are used to check the condition of your HDD and provide you wit
 Healthy or Likely to Fail...
  Imagine Datacenters,Datawarehouses etc where so many HDDs are used and people just don't have time to check each and every HDD for its health right?
  
- So, i applied my Data Science and Machine Learning knowledge to help predict whether a HDD is likely to fail or not, given a dataset of hard drives....
+ So, then applied my Data Science and Machine Learning knowledge to help predict whether a HDD is likely to fail or not, given a dataset of hard drives....
  
 I thought this would make it easy to check the health of multiple HDDs at once?? Cool right? {only Admins know the pain :( }
 
@@ -32,7 +32,7 @@ Link to my Kaggle :
 
 Thoughts on this model are welcome! And big thanks to the Open Source Community & Kaggle! 
 
-P.S : This project was based on my real life experience!
+P.S : This project was based on a real life experience!
 
 
 
