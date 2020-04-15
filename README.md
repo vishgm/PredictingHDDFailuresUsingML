@@ -28,6 +28,8 @@ I thought this would make it easy to check the health of multiple HDDs at once??
 
 I built a Random Forest Model using the dataset available on Kaggle :https://www.kaggle.com/jackywangkaggle/hard-drive-data-and-stats
 
+Link to my Kaggle :
+
 Thoughts on this model are welcome! And big thanks to the Open Source Community & Kaggle! 
 
 P.S : This project was based on my real life experience!
