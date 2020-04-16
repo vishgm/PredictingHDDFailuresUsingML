@@ -6,7 +6,7 @@ Dataset: https://www.kaggle.com/jackywangkaggle/hard-drive-data-and-stats
 ## More can be found on:-
  Link to Kaggle : https://www.kaggle.com/vishakg/predicting-hdd-failures-using-ml
  
- 
+ ## Go to 'Jupy_Notebook -> hdd_pred.ipnyb' to view source code
  Model:  Random Forest Model using the dataset available on Kaggle 
 
 Thoughts on this model are welcome! And big thanks to the Open Source Community & Kaggle! 
