@@ -9,8 +9,9 @@ Dataset: https://www.kaggle.com/jackywangkaggle/hard-drive-data-and-stats
  ## Go to 'Jupy_Notebook -> hdd_pred.ipnyb' to view source code
  Model:  Random Forest Model using the dataset available on Kaggle 
 
-Thoughts on this model are welcome! And big thanks to the Open Source Community & Kaggle! 
+Thoughts on this model are welcome! And a big thanks to the Open Source Community & Kaggle! 
 
 
 
-
+## Authors:
+* Vishak G, Mehul Shah
