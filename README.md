@@ -14,4 +14,4 @@ Thoughts on this model are welcome! And a big thanks to the Open Source Communit
 
 
 ## Authors:
-* Vishak G, Mehul Shah
+* [Vishak G](https://github.com/RepoMan20), [Mehul Shah](https://github.com/theguywithcode)
